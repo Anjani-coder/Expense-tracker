@@ -88,4 +88,5 @@ Add category-based reports and filtering.
 GUI version using JavaFX or Swing.
 
 👨‍💻 Author
-Anjani and Shubh
+Anjani
+
